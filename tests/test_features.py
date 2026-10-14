@@ -1,7 +1,7 @@
 
 import pytest
 
-from src.xraysense.features import hardness_ratio
+from xraysense.features import hardness_ratio
 
 
 def test_hardness_ratio_normal():

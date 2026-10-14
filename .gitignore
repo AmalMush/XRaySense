@@ -10,3 +10,15 @@ __pycache__/
 
 # Local secrets
 .env
+
+# Pytest cache
+.pytest_cache/
+
+# Python packaging artifacts
+*.egg-info/
+build/
+dist/
+
+# Local scientific datasets
+data/raw/
+data/processed/
