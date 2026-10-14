@@ -22,3 +22,5 @@ dist/
 # Local scientific datasets
 data/raw/
 data/processed/
+
+test_features_manual.py
